@@ -1,3 +1,13 @@
+## Tailwind CSS Integration
+
+### Installation
+```bash
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+### Usage
+- Add Tailwind directives to your CSS
 # Initial Commit
 
 ## Landing Page Feature
