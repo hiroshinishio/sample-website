@@ -1,3 +1,7 @@
+import 'styles/globals.css'
+export default function LandingPage() {
+  return <div className="container mx-auto p-4">Landing Page</div>
+}
 import React from 'react';
 import styles from './landing.module.css';
 
