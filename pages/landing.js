@@ -1,3 +1,10 @@
+ export default function Landing() {
+   return (
+     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+       <h1 className="text-5xl font-extrabold">Landing Page</h1>
+     </div>
+   );
+ }
 import React from 'react';
 import styles from './landing.module.css';
 
