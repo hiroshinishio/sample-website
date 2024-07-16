@@ -1,3 +1,8 @@
+ ## Tailwind CSS Integration
+ 
+ This project uses Tailwind CSS for styling.
+ 
+ To get started with Tailwind CSS, ensure you have installed dependencies and configured the project as outlined in the installation steps.
 # Initial Commit
 
 ## Landing Page Feature
