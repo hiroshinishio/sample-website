@@ -1,9 +1,9 @@
 import React from 'react';
-import styles from './landing.module.css';
+
 
 const Landing = () => (
-  <div className={styles.container}>
-    <header className={styles.header}>
+  <div className="container mx-auto px-4">
+    <header className="bg-blue-500 text-white p-4">
       <h1>Welcome to Our Landing Page</h1>
     </header>
     <main className={styles.main}>
