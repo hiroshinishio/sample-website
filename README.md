@@ -1,3 +1,13 @@
+# Using Tailwind CSS
+
+This project uses Tailwind CSS for styling. To get started with Tailwind CSS, follow these steps:
+
+1. **Install Tailwind CSS**: Run `npm install tailwindcss` to add Tailwind to your project's dependencies.
+
+2. **Configure Tailwind**: The configuration is set up in `tailwind.config.js`. You can customize it to fit your design needs.
+
+3. **Using Tailwind Classes**: Use Tailwind's utility classes directly in your JSX files to style components.
+
 # Initial Commit
 
 ## Landing Page Feature
