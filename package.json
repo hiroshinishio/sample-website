@@ -1,0 +1,15 @@
+{
+  "name": "sample-website",
+  "version": "1.0.0",
+  "description": "A sample website project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o dist/styles.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
