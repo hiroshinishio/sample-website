@@ -1,12 +1,12 @@
 import React from 'react';
-import styles from './landing.module.css';
+
 
 const Landing = () => (
   <div className={styles.container}>
     <header className={styles.header}>
       <h1>Welcome to Our Landing Page</h1>
     </header>
-    <main className={styles.main}>
+    <main className="p-4">
       <section className={styles.section}>
         <h2>About Us</h2>
         <p>Description about the company.</p>
